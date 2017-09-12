@@ -12,7 +12,7 @@
             Hi! I am krithika and this is my first webapp.
         </div>
         <script>
-            alert("I am javascript");
+            alert("I  javascript");
         </script>
         <script type="text/javascript" src="/ui/main.js">
         </script>
