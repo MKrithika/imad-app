@@ -11,10 +11,11 @@
         <div class="center text-big bold">
             Hi! I am krithika and this is my first webapp.
         </div>
+        <script type="text/javascript" src="/ui/main.js">
+        </script>
         <script>
             alert("hi");
         </script>
-        <script type="text/javascript" src="/ui/main.js">
-        </script>
+        
     </body>
 </html>
